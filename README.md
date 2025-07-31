@@ -51,8 +51,8 @@ This project implements a comprehensive CRM solution with the following features
 
 ```
 ├── code/
-│   ├── OrderTotalTrigger.txt    # Order total calculation trigger
-│   └── StockDetectionTrigger.txt # Stock deduction trigger
+│   ├── OrderTotalTrigger.trigger    # Order total calculation trigger
+│   └── StockDetectionTrigger.trigger # Stock deduction trigger
 ├── screenshots/
 │   ├── customers.png            # Customer management interface
 │   ├── inventory.png            # Inventory dashboard
